@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TAB-q or Kirill Tab
-- 👀 I’m interested in Game making/PC-Android apps
+- 👀 I’m interested in Game / PC-Android apps making
 - 🌱 I’m currently learning C++ and Kotlin
 - 💞️ I’m looking to collaborate on cool things
 - 📫 you can write me via email: tabdev101@yahoo.com or VK (if you russian) https://vk.com/tubbskrafter
