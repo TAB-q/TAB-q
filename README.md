@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @TAB-q or Kirill
+- 👋 Hi, I’m @TAB-q or Kirill Tab
 - 👀 I’m interested in Game making/PC-Android apps
-- 🌱 I’m currently learning C++, Kotlin
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning C++ and Kotlin
+- 💞️ I’m looking to collaborate on cool things
+- 📫 you can write me via email: tabdev101@yahoo.com or VK (if you russian) https://vk.com/tubbskrafter
 
 <!---
 TAB-q/TAB-q is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
