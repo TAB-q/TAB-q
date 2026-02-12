@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TAB-q
 - :office_worker: i'm working in [@center-team](https://github.com/center-team) and on a lot of cool things (look here: https://tab-q.github.io)
-- 📫 you can write me via email: tabdev101@yahoo.com or telegram [@tab_q](https://t.me/tab_q)
 - P.S. I have very bad activity coz i'm working on private repos
 
 
